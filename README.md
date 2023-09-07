@@ -24,3 +24,18 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 <p align="center">
     <img src="resources/Data Model.png" height="400">
 </p>
+
+## Overall Analysis View
+
+<p align="center">
+    <img src="resources/Overall.png" width="600">
+</p>
+
+## Monthly Analysis View
+
+<p align="center">
+    <img src= width="600">
+</p>
+
+
+
