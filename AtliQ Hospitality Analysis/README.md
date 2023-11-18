@@ -22,19 +22,19 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Data Model
 
 <p align="center">
-    <img src="resources/Data Model.png" height="400">
+    <img src="Data Model.png" height="400">
 </p>
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src="resources/Overall.png" width="600">
+    <img src="Overall.png" width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src="resources/Monthly.png" width="600">
+    <img src="Monthly.png" width="600">
 </p>
 
 ## Insights 
