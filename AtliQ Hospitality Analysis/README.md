@@ -28,13 +28,13 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Overall Analysis View
 
 <p align="center">
-    <img src="Overall(1).png" width="600">
+    <img src="over.png" width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src="Monthly(1).png" width="600">
+    <img src="month.png" width="600">
 </p>
 
 ## Insights 
