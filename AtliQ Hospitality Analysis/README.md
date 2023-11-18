@@ -16,7 +16,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="Datasets/mock up dashboard_atliq grands.png" width="600">
+    <img src="mock up dashboard_atliq grands.png" width="600">
 </p>
 
 ## Data Model
@@ -28,13 +28,13 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Overall Analysis View
 
 <p align="center">
-    <img src="Overall.png" width="600">
+    <img src="Overall(1).png" width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src="Monthly.png" width="600">
+    <img src="Monthly(1).png" width="600">
 </p>
 
 ## Insights 
