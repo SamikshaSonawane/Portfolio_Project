@@ -9,6 +9,18 @@ recommendations, so they must be backed up with compelling data insights and pro
 How do annual members and casual members use cyclistic bikes differently?
 Present this backed by compelling data insights and professional visualizations to achieve the goal of converting casual riders into annual members.
 
+# Action
+1. Data Exploration:
+- Identify and handle missing values in the dataset.
+- Analyze ride_type and member_type distributions.
+- Calculate trip duration and compare averages for annual and casual members.
+
+2. Comparative Analysis:
+- Compare trip frequencies between annual and casual members.
+- Visualize trends in trip frequency over the three months.
+- Identify popular start and end stations, focusing on those attracting more annual members.
+- Analyze active times and peak hours for both member types.
+
 # Insights
 1. Annual members tend to use Cyclistic bikes more frequently than casual members. Annual members commonly rely on bikes for weekday activities such as commuting to the office or other daily commitments. In contrast, casual members favor bike usage during weekends.
    
