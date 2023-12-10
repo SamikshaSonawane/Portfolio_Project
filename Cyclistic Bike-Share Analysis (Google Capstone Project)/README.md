@@ -11,9 +11,12 @@ Present this backed by compelling data insights and professional visualizations 
 
 # Insights
 1. Annual members tend to use Cyclistic bikes more frequently than casual members. Annual members commonly rely on bikes for weekday activities such as commuting to the office or other daily commitments. In contrast, casual members favor bike usage during weekends.
-2.  Both annual members and casual members prefer electric bikes over other rideable types.
-3.  The majority of rides take place between 2:00 and 7:00 PM, members frequently use bikes throughout the entire day.
-4.  Casual members generally take longer trips compared to annual members, as indicated by the average ride duration.
+   
+2. Both annual members and casual members prefer electric bikes over other rideable types.
+
+3. The majority of rides take place between 2:00 and 7:00 PM, members frequently use bikes throughout the entire day.
+
+4. Casual members generally take longer trips compared to annual members, as indicated by the average ride duration.
 
 # Recommendations
 1. Designing a Cyclistic Bike Share App that aims to offer users personalized insights, celebrate their achievements, and strategically promote annual memberships through tailored campaigns.
